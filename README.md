@@ -1,12 +1,12 @@
-# 📊 HR Attrition Analysis Dashboard
+# HR Attrition Analysis Dashboard
 
-## 🚀 Project Overview
+## Project Overview
 This project focuses on analyzing employee attrition patterns to uncover key factors influencing turnover.  
 An interactive dashboard was built using Power BI to help visualize trends and support data-driven HR decisions.
 
 ---
 
-## 🎯 Objective
+## Objective
 - Understand why employees are leaving the company  
 - Identify high-risk groups based on age, salary, and experience  
 - Provide actionable insights to improve employee retention  
@@ -64,5 +64,3 @@ This trend may be driven by:
 3. Explore interactive visuals and filters  
 
 ---
-
-#DataAnalytics #PowerBI #HRAnalytics #DataVisualization

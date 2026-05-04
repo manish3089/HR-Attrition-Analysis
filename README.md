@@ -21,14 +21,9 @@ An interactive dashboard was built using Power BI to help visualize trends and s
 
 ---
 
-## 📂 Dataset
-- HR dataset containing employee details such as age, salary, job role, and years of experience  
-- *(Add source if from Kaggle or mention "synthetic dataset" if applicable)*  
-
----
-
 ## 📸 Dashboard Preview
-*(Add your screenshots here — dashboard overview + key visuals)*  
+<img width="1162" height="744" alt="dashboard_screenshot png" src="https://github.com/user-attachments/assets/ddba3853-eb9a-4c2f-9704-0b80605cf128" />
+ 
 
 ---
 
